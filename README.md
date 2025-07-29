@@ -49,3 +49,7 @@ Social Media Monitoring: Analyze and summarize large volumes of posts, reviews, 
 
 ✅ Conclusion:
 The transformer-based summarization tool demonstrates how deep learning and NLP can significantly enhance text processing capabilities. By using pre-trained models like BART, the tool ensures high-quality summaries with minimal setup. Its adaptability to various platforms and ease of use make it a valuable asset for students, professionals, and businesses alike.
+
+#OUTPUT
+
+<img width="1835" height="606" alt="Image" src="https://github.com/user-attachments/assets/6b4829fe-8d67-405e-a8d0-ce1e484ecd33" />
